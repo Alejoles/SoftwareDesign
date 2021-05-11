@@ -2,6 +2,18 @@
 
 All the labs and works of the asignature
 
-# Some of the programs seen in class:
+# Some stuff seen in class:
 
-### -ngrok
+### -Ngrok
+### -Gunicorn
+### -FastAPI
+### -NGINX
+### -PM2
+### -SonarQube
+### -Django
+### -Boto3 (AWS)
+### -AWS
+### -DigitalOcean
+### -Postman
+### -Celery
+### -Serverless
