@@ -1,0 +1,23 @@
+
+service: laboratorio10
+
+frameworkVersion: '2'
+
+provider:
+  name: aws
+  runtime: python3.8
+  lambdaHashingVersion: 20201221
+
+
+plugins:
+  - serverless-offline
+
+
+functions:
+  hello:
+    handler: handler.hello
+
+    events:
+      - http:
+          path: /modelo_duende
+          method: get

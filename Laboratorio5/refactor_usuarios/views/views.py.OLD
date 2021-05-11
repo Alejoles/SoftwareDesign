@@ -1,0 +1,23 @@
+class Users:
+    def __init__(self):
+        pass
+    def get_name_user(self):
+        pass
+
+class Products:
+    def __init__(self):
+        pass
+    def get_name_product(self):
+        pass
+
+class Roles:
+    def __init__(self):
+        pass
+    def get_name_role(self):
+        pass
+
+class Security:
+    def __init__(self):
+        pass
+    def get_name_product(self):
+        pass
