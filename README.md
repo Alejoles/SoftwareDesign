@@ -4,8 +4,8 @@ All the labs and works of the asignature
 
 # Some stuff seen in class:
 
-### -Ngrok
-### -Gunicorn
+### -Ngrok        -AirFlow
+### -Gunicorn     -Docker
 ### -FastAPI
 ### -NGINX
 ### -PM2
@@ -14,6 +14,6 @@ All the labs and works of the asignature
 ### -Boto3 (AWS)
 ### -AWS
 ### -DigitalOcean
-### -Postman
+### -Postman 
 ### -Celery
 ### -Serverless
